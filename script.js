@@ -13,3 +13,4 @@ button.addEventListener('click', () => {
 });
 
 let p = 30;
+k = p+89;
