@@ -12,3 +12,4 @@ button.addEventListener('click', () => {
   document.body.style.backgroundColor = randomColor;
 });
 
+let p = 30;
